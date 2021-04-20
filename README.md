@@ -1,4 +1,4 @@
 # Blog Article
 
-[PandaGrammer](https://freepanda.tistory.com/) Article Repository
+[PandaGrammer](https://justpanda.tistory.com/) Article Repository
 
