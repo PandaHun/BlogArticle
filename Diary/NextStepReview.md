@@ -61,6 +61,10 @@ In -> Out 방식이 조금 TDD에 적합하다.
 
 ![image](https://user-images.githubusercontent.com/13096845/120103372-414ac980-c18a-11eb-9880-e1b135a5aadb.png)
 
+
+
+
+
 ![image](https://user-images.githubusercontent.com/13096845/120103399-66d7d300-c18a-11eb-9fa9-1998fb8b967e.png)
 
 외에도 더 많은 리뷰가 있었지만, 이렇게 상세하게, 그리고 다양한 의견을 주시면서 개발의 방향성을 잡아주시기도 합니다!
@@ -82,7 +86,7 @@ In -> Out 방식이 조금 TDD에 적합하다.
 
 이전까지의 코드를 바라보고 기능을 바라보는 시야가 달라지고, 발전했다고 느낄 수 있는 경험이였습니다.
 
-현재 12기 과정 일정이 오픈되었습니다.
+현재 [12기 과정 일정](https://edu.nextstep.camp/c/8fWRxNWU/)이 오픈되었습니다.
 
 관심 있으시다면 입과해서 부딪혀보세요!
 
