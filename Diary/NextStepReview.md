@@ -39,18 +39,31 @@
 
 ## 기억에 남는 내용
 
-### Out -> In에서 In -> Out으로 개발하라
+### Out -> In에서 In -> Out으로 개발하라(사다리 게임)
 
+**Out -> In 접근방식**
+
+도메인 지식이 없거나, 요구사항이 복잡한경우
+
+**In -> Out 접근방식**
+
+도메인 지식이 있거나, 요구사항이 단순한 경우
+
+In -> Out 방식이 조금 TDD에 적합하다.
+
+일반적으로 요구사항 분석 후 도메인 객체를 생성한다.
+
+그렇게되면 요구사항이 단순화해지고, 객체를 생성하기때문에 In -> Out 방식이 더 적합하다.
+
+또, Out -> In 으로 개발하다보면, 테스트 단위를 구분하거나 기능을 정하기 어렵다.
 
 ### 기억나는 리뷰들
 
-https://github.com/next-step/java-racingcar/pull/1961#discussion_r589129816
+![image](https://user-images.githubusercontent.com/13096845/120103372-414ac980-c18a-11eb-9880-e1b135a5aadb.png)
 
-https://github.com/next-step/java-ladder/pull/851#discussion_r607041461
+![image](https://user-images.githubusercontent.com/13096845/120103399-66d7d300-c18a-11eb-9fa9-1998fb8b967e.png)
 
-https://github.com/next-step/java-ladder/pull/851#discussion_r607047285
-
-https://github.com/next-step/java-ladder/pull/874#discussion_r611666052
+외에도 더 많은 리뷰가 있었지만, 이렇게 상세하게, 그리고 다양한 의견을 주시면서 개발의 방향성을 잡아주시기도 합니다!
 
 
 # 결론
@@ -71,4 +84,12 @@ https://github.com/next-step/java-ladder/pull/874#discussion_r611666052
 
 현재 12기 과정 일정이 오픈되었습니다.
 
-관심 있으시다면 입과해서 느껴보세요!
+관심 있으시다면 입과해서 부딪혀보세요!
+
+만약, 금액이 부담된다면 [자바 플레이그라운드 with TDD, 클린코드](https://edu.nextstep.camp/c/9WPRB0ys/)를 소개합니다.
+
+자바지기님께서 새로운 맛보기(?) 강의를 만드셨습니다!
+
+비록 TDD 강의처럼 리뷰어가 리뷰를 해주는 강의는 아니지만, 초심자, 취준생 등 인사이트가 필요한 사람들이라면 추천하고싶습니다.
+
+과제와 공통 피드백이 있는 동영상 강의라고 생각하면 될 것 같습니다!
